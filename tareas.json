@@ -1,0 +1,14 @@
+[
+    {
+        "titulo": "Comprar alimentos y frutas",
+        "estado": "pendiente"
+    },
+    {
+        "titulo": "Comprar leche",
+        "estado": "pendiente"
+    },
+    {
+        "titulo": "Comprar gasolina\"",
+        "estado": "pendiente"
+    }
+]
